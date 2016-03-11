@@ -1,0 +1,32 @@
+.menu {
+  width: 650px; }
+
+ul {
+  background-color: black;
+  text-transform: uppercase;
+  font-size: 20px;
+  text-align: center;
+  padding-right: 50px;
+  padding-left: 50px; }
+
+li {
+  margin-left: -5px;
+  display: inline-block;
+  padding: 35px 20px;
+  border-right: solid 1px grey; }
+
+li:first-child {
+  border-left: solid 1px grey; }
+
+li:hover {
+  background-color: gray;
+  padding: 35px 20px 30px 20px;
+  border-bottom: solid 5px orange; }
+
+a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: sans-serif; }
+
+/*# sourceMappingURL=css.css.map */
